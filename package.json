@@ -1,0 +1,35 @@
+{
+  "name": "idontknowjustfuckingwork",
+  "version": "hopefullyworks1",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "ionic:build": "npm run build",
+    "ionic:serve": "npm run dev"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@capacitor/android": "4.6.2",
+    "@capacitor/app": "4.1.1",
+    "@capacitor/cli": "^4.6.2",
+    "@capacitor/core": "^4.6.2",
+    "@capacitor/haptics": "4.1.0",
+    "@capacitor/keyboard": "4.1.1",
+    "@capacitor/status-bar": "4.1.1",
+    "@ionic/react": "^6.6.0",
+    "@mdi/font": "^7.1.96",
+    "@nuxtjs/supabase": "^0.3.0",
+    "@pinia/nuxt": "^0.4.6",
+    "axios": "^1.2.2",
+    "express": "^4.18.2",
+    "pinia": "^2.0.28",
+    "sass": "^1.57.1",
+    "vuetify": "^3.1.0"
+  }
+}

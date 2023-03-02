@@ -1,0 +1,7 @@
+{
+  "appId": "com.unnamed.theProject",
+  "appName": "The Project App 2",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist"
+}
